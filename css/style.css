@@ -1,0 +1,11 @@
+.our-bg-info {
+    background-color: #FEEAE9;
+}
+
+.new-button-buy-now {
+    color: white;
+    background-color: crimson;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
